@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-repo",
+  "version": "1.0.0",
+  "description": "- [Offizielle Dokumentation](https://tailwindcss.com/docs/installation) - [Kool Tailwind Componente für ALLE DEINE FANTASIEN](https://tailwindflex.com/) - [Cheatsheet Für Tailwind](https://tailwindcomponents.com/cheatsheet/)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./tailwind.css -o ./style.css --watch"
+  },
+  "keywords": [],
+  "author": "ArbenAi",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
